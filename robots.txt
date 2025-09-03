@@ -1,4 +1,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://mister-hope.github.io/shioru-stats/sitemap.xml
+Sitemap: https://takedakatsuji.github.io/shioru-stats/sitemap.xml
