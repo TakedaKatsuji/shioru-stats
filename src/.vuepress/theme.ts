@@ -3,14 +3,14 @@ import { enNavbar} from "./navbar/index.js";
 import { enSidebar} from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "https://takedakatsuji.github.io",
 
   author: {
     name: "Takeda Katsuji",
     url: "https://mister-hope.com",
   },
 
-  logo: ".vuepress/public/cat.avif",
+  logo: "/cat.avif",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
   docsDir: "src",

@@ -4,7 +4,7 @@ layout: Blog
 icon: house
 title: Home
 # heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-bgImage: .vuepress/public/shioru-cat2.webp
+bgImage: /shioru-cat2.webp
 heroText: 栞る数理統計
 tagline: 栞をはさむように学びを綴るブログ
 heroFullScreen: true
