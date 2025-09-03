@@ -1,0 +1,24 @@
+{
+  "name": "shioru-stats",
+  "description": "Shioru-Stat is a personal blog dedicated to documenting the study and practice of mathematical statistics. The project serves as both a learning log and a structured reference, designed to capture insights, derivations, proofs, and applied methods in statistical theory.",
+  "version": "2.0.0",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "docs:build": "vuepress-vite build src",
+    "docs:clean-dev": "vuepress-vite dev src --clean-cache",
+    "docs:dev": "vuepress-vite dev src",
+    "docs:update-package": "npx vp-update"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.24",
+    "sass-embedded": "^1.89.2",
+    "vue": "^3.5.17",
+    "vuepress": "2.0.0-rc.24",
+    "vuepress-theme-hope": "2.0.0-rc.94"
+  },
+  "dependencies": {
+    "mathjax": "^4.0.0",
+    "mathjax-full": "^3.2.2"
+  }
+}
