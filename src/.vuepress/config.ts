@@ -2,8 +2,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/",
-
+  base: "/shioru-stats/",   // リポ名に合わせる
   locales: {
     "/": {
       lang: "ja",
