@@ -46,3 +46,4 @@ jobs:
           # Deploy Docs
           branch: gh-pages
           folder: src/.vuepress/dist
+          clean: true
